@@ -1,4 +1,4 @@
-####Apache Kafka Installition
+Apache Kafka Installition
 I'll explain how to install Kafka on Ubuntu system.
 
 Ubuntu System Upgrade
